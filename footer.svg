@@ -5,7 +5,7 @@
       width: 100vw;
       position: fixed;
       top: -5px;
-      transform: rotate(360deg);
+      transform: rotate(3600deg);
       overflow: visible;
     }
 
@@ -19,7 +19,9 @@
       fill:#DCDCDC;
     }
 
-     #wave2 {
+    
+
+    #wave2 {
       animation-duration: 5s;
       animation-direction: reverse;
     }
@@ -60,5 +62,4 @@
    
   </svg>
 </svg>
-footer
 
