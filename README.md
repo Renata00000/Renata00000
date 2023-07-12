@@ -10,9 +10,9 @@
  <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font></h1>
  <!--letreiro-->
 
-<h1 align="center">
+ <!--<h1 align="center">
  <img src="https://raw.githubusercontent.com/Renata00000/renata00000/e83c669ae5423ba7f889b0ec46e382fabb0f9a42/letreiro.svg" width="10000" height="400">
-  </h1> 
+  </h1> -->
 
  
 <!-- Gif Mago-->
