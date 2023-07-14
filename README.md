@@ -50,12 +50,12 @@
 <hr> -->
 
 <!--<gary  -->
-<p align="center">
+<!--<p align="center">
 <img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Fuck%20Yeah%20Pixels!.gif?raw=true" width="150" height="180">
 
 
 <!--<3 urso  -->
-<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Cartoon%20Network%20Bear%20Sticker%20by%20The%20Oluk%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true " width="150" height="180">
+<!--<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Cartoon%20Network%20Bear%20Sticker%20by%20The%20Oluk%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true " width="150" height="180">
 
 
 
