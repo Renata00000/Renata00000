@@ -3,13 +3,12 @@
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/header.svg"/> 
 
 <h1 align="center">
-<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(6).png?raw=true" width="150" height="180">
- 
-</h1>
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(6).png?raw=true" width="350" height="350">
+ </h1>
 <!-- letreiro-->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello👋...+May+name+is+Renata+Cristiane!!!)](https://git.io/typing-svg)-->
  
- <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font></h1>1>
+ <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font></h1>
  <!--letreiro-->
 
  <!--<h1 align="center">
