@@ -2,12 +2,14 @@
 <!-- cabeçalho-->
  <img height="100%" width="100%" alt="Bottom" src="https://github.com/Renata00000/Renata00000/blob/main/header.svg"/> 
 
-
+<h1 align="center">
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(6).png?raw=true" width="150" height="180">
  
+</h1>
 <!-- letreiro-->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello👋...+May+name+is+Renata+Cristiane!!!)](https://git.io/typing-svg)-->
  
- <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font></h1>
+ <h1 align="center"><font class="h2">(</font><font class="h3">"Renata Cristiane"</font><font class="h2">)</font></h1>1>
  <!--letreiro-->
 
  <!--<h1 align="center">
@@ -23,6 +25,8 @@
   </kbd>
 </div> -->
 
+<!--<Peach -->
+  <!-- <img src="https://github.com/Renata00000/renata00000/blob/main/imagens/C4E11ACB-1C21-4F47-B6B3-D7AF6A00C750.PNG?raw=true" width="100" height="100"> -->
 
  <h2 align="center">🔥 Technologies and frameworks that I use, know and am learning 🔥</h2>
 <br>
@@ -47,10 +51,11 @@
 
 <!--<gary  -->
 <p align="center">
-<img src="https://github.com/Renata00000/Renata00000/blob/main/Fuck%20Yeah%20Pixels!.gif" width="150" height="180">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Fuck%20Yeah%20Pixels!.gif?raw=true" width="150" height="180">
+
 
 <!--<3 urso  -->
-<img src="https://github.com/Renata00000/Renata00000/blob/main/Cartoon%20Network%20Bear%20Sticker%20by%20The%20Oluk%20for%20iOS%20&%20Android%20_%20GIPHY.gif " width="150" height="180">
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Cartoon%20Network%20Bear%20Sticker%20by%20The%20Oluk%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true " width="150" height="180">
 
 
 
@@ -75,44 +80,236 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="150px" height="180px"></p> -->
 
 
-<!-- pac-man amarelo-->
-<!--![](https://github.com/Renata00000/renata00000/blob/main/Meu%20projeto%20(2).png?raw=true)
 
-<!--caixa amarel
-![](https://github.com/Renata00000/renata00000/blob/main/Meu%20projeto%20(3).png?raw=true)
-
-<!--yosh
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1%20(1).png?raw=true)
-
-<!--dory
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1%20(2).png?raw=true)
-
-<!--luidy
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1%20(3).png?raw=true)
+<!--Mario se transformando
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/21%20Reasons%20Mario%20Is%20Your%20Dream%20Man.gif?raw=true" width="150" height="180"> 
 
 
-<!--mario no carrinho
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1%20(4).png?raw=true)
+<!--pac-man, whats the f
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Celebrate%20Pac-Man's%2033rd%20birthday%20with%2033%20GIFs.gif?raw=true" width="150" height="180">
 
-<!--pac man
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1%20(4).png?raw=true)
+
+<!--Mario fazen 2 com a mao
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Nintendo%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="150" height="180">
+
+
+<!-- mario girando no carro
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Super%20Mario%20Spinning%20Sticker%20by%20GIPHY%20Gaming%20for%20iOS%20&%20Android%20_%20GIPHY.gif?raw=true" width="150" height="180">
+
+
+<!--pac man brigando
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/The%2080s%20Fan%20Art_%20Pac%20Man%20had%20it%20coming.gif?raw=true" width="150" height="180">
+
+
+<!-- bola rosa dancando
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/_%20(1).gif?raw=true" width="150" height="180">
+
+
+<!--Peach caminhando
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%98%86SailorSparkles%E2%98%86.gif?raw=true" width="150" height="180">
+
+
+<!--estrelinha girando
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/%E2%99%BB%EF%B8%8F%F0%9F%8C%9F%F0%9F%8D%93%F0%9F%92%AC.gif?raw=true" width="150" height="180">
+
+
+<!--copas guspindo fogo
+<img src="https://github.com/Renata00000/renata00000/blob/main/gifs/Private%20GIF.gif?raw=true" width="150" height="180">
+
+
+<!--caixa com ?
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/Meu%20projeto%20(3).png?raw=true" width="150" height="180">
+
+
+<!--montanha verde
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/Meu%20projeto%20(5).png?raw=true" width="150" height="180">
+
+
+<!--fantasma d oculos d sol
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/Meu%20projeto.png?raw=true" width="150" height="180">
+
+
+<!--Pac main amarelo
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(1)%20-%20co%CC%81pia.png?raw=true" width="150" height="180">
+
+
+<!--yosh azul
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(1).png?raw=true" width="150" height="180">
+
+
+<!-- 3 fantasma
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(10).png?raw=true" width="150" height="180">
+
+
+<!--copas
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(11).png?raw=true" width="150" height="180">
+
+
+<!--caixa e a flor
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(12).png?raw=true" width="150" height="180">
+
+
+<!--coppas cabelo colorido
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(13).png?raw=true" width="150" height="180">
+
+
+<!--copas cabelo azul
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(14).png?raw=true" width="150" height="180">
+
+
+<!--copas rosa d oculos
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(15).png?raw=true" width="150" height="180">
+
+
+<!--copas rosa
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(16).png?raw=true" width="150" height="180">
+
+
+<!--Peach fazendo 2
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(17).png?raw=true" width="150" height="180">
+
+
+<!--Pac man na faixa
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(18).png?raw=true" width="150" height="180">
+
+
+<!-- b laranja com semafaro
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(19).png?raw=true" width="150" height="180">
+
+
+<!--caixa voando
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(2).png?raw=true" width="150" height="180">
+
+
+<!--copas saindo do tunel
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(21).png?raw=true" width="150" height="180">
+
+<!--flor v no tunel
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(22).png?raw=true" width="150" height="180">
+
+
+<!--yosh verde fofo
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(24).png?raw=true" width="150" height="180">
+
+
+<!--Pac man tartarugas ninja
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(25).png?raw=true" width="150" height="180">
+
+
+<!--montalha verde menor
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(26).png?raw=true" width="150" height="180">
+
+
+<!--fantasma de oculos menor
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(27).png?raw=true" width="150" height="180">
+
+
+<!--luidy voando
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(29).png?raw=true" width="150" height="180">
+
+
+<!--flor vermelfa
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(3).png?raw=true" width="150" height="180">
+
+
+<!--b laranja com cogumelo
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(4).png?raw=true" width="150" height="180">
+
+
+<!--peach em cima do tunel
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(5).png?raw=true" width="150" height="180">
+
+
+<!--mario e luid
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(6).png?raw=true" width="150" height="180">
+
+<!--cenario do mario
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(7).png?raw=true" width="150" height="180">
+
+
+<!--flor v para usar
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1%20(9).png?raw=true" width="150" height="180">
+
+
+<!--cenario do mario e yosh
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-1.png?raw=true" width="150" height="180">
+
 
 <!--mario baby
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1%20(7).png?raw=true)
-
-<!--fantasma de oculos
-![](https://github.com/Renata00000/renata00000/blob/main/My%20project-1.png?raw=true)
-
+<img src="https://github.com/Renata00000/renata00000/blob/main/imagens/My%20project-3.png?raw=true" width="150" height="180">
 
 
 <!--
-![]()
+<img src="" width="150" height="180">
+
 
 <!--
-![]()
+<img src="" width="150" height="180">
 
 <!--
-![]()-->
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+
+<!--
+<img src="" width="150" height="180">
+
+<!--
+<img src="" width="150" height="180"> -->
+
+
+
+
 
 
 
